@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\HDR">
+      <UniqueIdentifier>{4ecbe6ac-ab37-40f8-8bb1-68e19ebcfd30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\Shader">
+      <UniqueIdentifier>{299b88ba-5ec1-4caa-9711-22d8c7fe66d9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ChessMain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Model1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shaderClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EVAOBO.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="skybox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Objectect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Camera1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="json.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Model1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="shaderClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EVAOBO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Objectetc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="skybox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="chessRule.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="HDR\old_apartments_walkway_8k.hdr">
+      <Filter>资源文件\HDR</Filter>
+    </None>
+    <None Include="HDR\satara_night_4k.hdr">
+      <Filter>资源文件\HDR</Filter>
+    </None>
+    <None Include="HLSL_Shader\background.frag">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+    <None Include="HLSL_Shader\background.vert">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+    <None Include="HLSL_Shader\brdf.frag">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+    <None Include="HLSL_Shader\brdf.vert">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+    <None Include="HLSL_Shader\cubemap.vert">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+    <None Include="HLSL_Shader\equirectangular_to_cubemap.frag">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+    <None Include="HLSL_Shader\irradiance_convolution.frag">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+    <None Include="HLSL_Shader\pbr.frag">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+    <None Include="HLSL_Shader\pbr.vert">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+    <None Include="HLSL_Shader\outlining.frag">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+    <None Include="HLSL_Shader\outlining.vert">
+      <Filter>资源文件\Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2077 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.6.16",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "blenderkitUI" : {
+                    "asset_type" : 2,
+                    "dragging" : 0,
+                    "assetbar_on" : 0,
+                    "turn_off" : 0,
+                    "margin" : 0,
+                    "thumb_size" : 96,
+                    "bar_x" : 78,
+                    "bar_end" : 101,
+                    "bar_width" : 834,
+                    "wcount" : 7,
+                    "hcount" : 1,
+                    "bar_height" : 96,
+                    "bar_y" : 408,
+                    "reports_y" : 212,
+                    "reports_x" : 78,
+                    "rating_x" : 78,
+                    "rating_y" : 312,
+                    "mouse_x" : 517,
+                    "mouse_y" : -347,
+                    "has_hit" : 0,
+                    "active_index" : -3,
+                    "draw_drag_image" : 0,
+                    "draw_snapped_bounds" : 0,
+                    "draw_tooltip" : 0,
+                    "drawoffset" : 35,
+                    "tooltip" : "",
+                    "drag_init" : 0,
+                    "scrolloffset" : 35,
+                    "snapped_location" : [
+                        -0.0643937811255455,
+                        0.0937311127781868,
+                        0.005118959583342075
+                    ],
+                    "drag_length" : 1,
+                    "snapped_normal" : [
+                        -0.24652011692523956,
+                        0.6816480159759521,
+                        0.6889005303382874
+                    ],
+                    "snapped_rotation" : [
+                        0.8108253479003906,
+                        1.0680550133201905e-07,
+                        -2.794574499130249
+                    ],
+                    "snapped_bbox_min" : [
+                        -0.17730000615119934,
+                        -0.10639999806880951,
+                        -9.999999747378752e-05
+                    ],
+                    "snapped_bbox_max" : [
+                        0.15719999372959137,
+                        0.08579999953508377,
+                        0.06260000169277191
+                    ],
+                    "down_up" : 0
+                },
+                "blenderkit_models" : {
+                    "is_searching" : 0,
+                    "report" : "Found 238 results. ",
+                    "search_error" : 0,
+                    "search_keywords" : "horse",
+                    "append_link" : 1,
+                    "import_as" : 1
+                },
+                "blenderkit_mat" : {
+                    "is_searching" : 0,
+                    "report" : "Found 97 results. ",
+                    "search_keywords" : "marble",
+                    "search_error" : 0,
+                    "search_verification_status" : 0
+                },
+                "assets used" : {
+                    "626afa9d-bdf6-4c12-8965-b819d96da71e" : {
+                        "thumbnail" : "thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "GIGABYTE Aorus GeForce RTX 2080 Ti\n Xtreme 11G\n\ngraphic card with EK-Vector Aorus RTX\n 2080 Ti RGB - Nickel + Plexi water\n cooling solution and elbow hose\n fittings. RGB light is animated for\n 5000 pictures.\n\nmanufacturer: Gigabyte - EK waterbloks\nsize: 0.33m, 0.19m, 0.06m\nface count: 212178, render: 212178\nfiles size: 109MB 1018KB\ntex resolution: 285 - 4567\nlicense: royalty_free\nAsset has lower resolutions available\n\nOnly assets with enough ratings \nshow the rating value. Please rate.\n",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -0.1773,
+                            -0.1064,
+                            -0.0001
+                        ],
+                        "bbox_max" : [
+                            0.1572,
+                            0.0858,
+                            0.0626
+                        ],
+                        "thumbnail_%i" : "thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/eda2e165-5b39-4db2-a48c-0a4937e753cb/",
+                        "id" : "eda2e165-5b39-4db2-a48c-0a4937e753cb",
+                        "assetBaseId" : "626afa9d-bdf6-4c12-8965-b819d96da71e",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "639",
+                            "firstName" : "Joachim",
+                            "lastName" : "Bornemann",
+                            "gravatarHash" : "acd124cf9a73257876372090f1bd2c5f",
+                            "aboutMe" : "I have been practicing Blender since the beginning of 2017. I only create free models. I wish you a lot of fun with the models.",
+                            "aboutMeUrl" : "https://www.youtube.com/channel/UC4iumRZFtMwIp68q_H7y-DQ/videos?view=0&sort=dd&shelf_id=1"
+                        },
+                        "name" : "GIGABYTE Aorus GeForce RTX 2080 Ti Xtreme 11G",
+                        "displayName" : "GIGABYTE Aorus GeForce RTX 2080 Ti Xtreme 11G",
+                        "description" : "graphic card with EK-Vector Aorus RTX 2080 Ti RGB - Nickel + Plexi water cooling solution and elbow hose fittings. RGB light is animated for 5000 pictures.",
+                        "assetType" : "model",
+                        "category" : "components-hardware",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "computer",
+                            "non-manifold",
+                            "uv",
+                            "non-manifold",
+                            "uv",
+                            "non-manifold",
+                            "uv",
+                            "non-manifold",
+                            "uv"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "model_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : "principled,glass,mix shader,add shader,emission,transparent"
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "textureResolutionMin",
+                                "value" : 285
+                            },
+                            {
+                                "parameterType" : "textureResolutionMax",
+                                "value" : 4567
+                            },
+                            {
+                                "parameterType" : "engines",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "modifiers",
+                                "value" : ""
+                            },
+                            {
+                                "parameterType" : "materials",
+                                "value" : "Steel_Geb\u00fcrsted.013,Transparent Glass,Material.134,EK_Schwarz.002,EK_Schwarz.Vector,RGB.007,Fluid.001,EK_Schwarz.RTX2080,Gold.012,Stecker_kunsstoff.003,Platine_front.001,Platine_back.001,Platine_front.Metal.001,Platine_front.Plastik.001,Lot.034,Material.135,allu.001,bLECH.001,allu.Black.hell.001,Steel_Geb\u00fcrsted.Dunkel.003,EK_Schwarz.003,Steel_Geb\u00fcrsted.014"
+                            },
+                            {
+                                "parameterType" : "rig",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "simulation",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "dimensionX",
+                                "value" : 0.3345
+                            },
+                            {
+                                "parameterType" : "dimensionY",
+                                "value" : 0.1922
+                            },
+                            {
+                                "parameterType" : "dimensionZ",
+                                "value" : 0.0626
+                            },
+                            {
+                                "parameterType" : "boundBoxMinX",
+                                "value" : -0.1773
+                            },
+                            {
+                                "parameterType" : "boundBoxMinY",
+                                "value" : -0.1064
+                            },
+                            {
+                                "parameterType" : "boundBoxMinZ",
+                                "value" : -0.0001
+                            },
+                            {
+                                "parameterType" : "boundBoxMaxX",
+                                "value" : 0.1572
+                            },
+                            {
+                                "parameterType" : "boundBoxMaxY",
+                                "value" : 0.0858
+                            },
+                            {
+                                "parameterType" : "boundBoxMaxZ",
+                                "value" : 0.0626
+                            },
+                            {
+                                "parameterType" : "faceCount",
+                                "value" : 212178
+                            },
+                            {
+                                "parameterType" : "faceCountRender",
+                                "value" : 212178
+                            },
+                            {
+                                "parameterType" : "meshPolyType",
+                                "value" : "quad_dominant"
+                            },
+                            {
+                                "parameterType" : "manifold",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "productionLevel",
+                                "value" : "finished"
+                            },
+                            {
+                                "parameterType" : "objectCount",
+                                "value" : 14
+                            },
+                            {
+                                "parameterType" : "manufacturer",
+                                "value" : "Gigabyte - EK waterbloks"
+                            },
+                            {
+                                "parameterType" : "procedural",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "nodeCount",
+                                "value" : 94
+                            },
+                            {
+                                "parameterType" : "textureCount",
+                                "value" : 20
+                            },
+                            {
+                                "parameterType" : "megapixels",
+                                "value" : 101
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.91.0",
+                        "addonVersion" : "1.0.32",
+                        "created" : "2020-02-26T08:36:52.858151+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/38290/"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/25928/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/eda2e1655b394db2a48c0a4937e753cb/files/thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/eda2e1655b394db2a48c0a4937e753cb/files/thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.1024x1024_q85_crop-%2C.png"
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/38286/"
+                            },
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/15264/"
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/38288/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/eda2e1655b394db2a48c0a4937e753cb/files/resolution_1K_46fc4b53-46fd-4847-978f-79003740f8b0.blend",
+                                "file_name" : "resolution_1K_46fc4b53-46fd-4847-978f-79003740f8b0.blend"
+                            }
+                        ],
+                        "filesSize" : 114460666,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/eda2e1655b394db2a48c0a4937e753cb/files/thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/eda2e1655b394db2a48c0a4937e753cb/files/thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/eda2e1655b394db2a48c0a4937e753cb/files/thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/eda2e1655b394db2a48c0a4937e753cb/files/thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/eda2e1655b394db2a48c0a4937e753cb/files/thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/eda2e1655b394db2a48c0a4937e753cb/files/thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/eda2e1655b394db2a48c0a4937e753cb/files/thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/eda2e1655b394db2a48c0a4937e753cb/files/thumbnail_70510306-626b-428a-9f77-27f8fa5af420.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 1024,
+                        "thumbnailXlargeWidthNonsquared" : 1920,
+                        "thumbnailXlargeHeightNonsquared" : 1920,
+                        "showMarketingLabels" : 1,
+                        "score" : 600,
+                        "ratingsAverage" : {
+                            "quality" : 6,
+                            "workingHours" : 10
+                        },
+                        "ratingsCount" : {
+                            "quality" : 1,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 1,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            2048,
+                            1024
+                        ],
+                        "max_resolution" : 2048,
+                        "resolution" : "resolution_1K"
+                    },
+                    "9cb2b199-f3fe-4cbc-b963-cf7d1332a87d" : {
+                        "thumbnail" : "thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "White Marble Procedural\n\n100% procedural and editable.\n\nfiles size: 840KB\ntexture size: 5.0m\nlicense: royalty_free\n\nOnly assets with enough ratings \nshow the rating value. Please rate.\n",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 5,
+                        "thumbnail_%i" : "thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/c6825df8-2356-49b7-8b95-8adcf0138bda/",
+                        "id" : "c6825df8-2356-49b7-8b95-8adcf0138bda",
+                        "assetBaseId" : "9cb2b199-f3fe-4cbc-b963-cf7d1332a87d",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "59772",
+                            "firstName" : "Lucas",
+                            "lastName" : "E. Paludo",
+                            "gravatarHash" : "e9556ef8eb375a4a8e1ae050ffe77617",
+                            "aboutMe" : "Architect, 3d designer, animator.",
+                            "aboutMeUrl" : "http://www.instagram.com/paludo.arq",
+                            "tooltip" : "Author:\nLucas E. Paludo\n\nhttp://www.instagram.com/paludo.arq\n\nArchitect, 3d designer, animator.\n\n"
+                        },
+                        "name" : "White Marble Procedural",
+                        "displayName" : "White Marble Procedural",
+                        "description" : "100% procedural and editable.",
+                        "assetType" : "material",
+                        "category" : "marble",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "marble",
+                            "white",
+                            "procedural",
+                            "nodes",
+                            "seamless",
+                            "light",
+                            "non-manifold",
+                            "non-manifold"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "textureSizeMeters",
+                                "value" : 5
+                            },
+                            {
+                                "parameterType" : "procedural",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "material_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "engine",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : [
+                                    "principled"
+                                ]
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "pbrType",
+                                "value" : "metallic"
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "nodeCount",
+                                "value" : 11
+                            },
+                            {
+                                "parameterType" : "textureCount",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "megapixels",
+                                "value" : 0
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.90.1",
+                        "addonVersion" : "1.0.31",
+                        "created" : "2021-01-23T13:05:42.800010+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/43129/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/c6825df8235649b78b958adcf0138bda/files/thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/c6825df8235649b78b958adcf0138bda/files/thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.1024x1024_q85_crop-%2C.png"
+                            },
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/43130/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/c6825df8235649b78b958adcf0138bda/files/blend_67966b7b-04d0-45b2-9f5e-a167ca610bd0.blend",
+                                "file_name" : "blend_67966b7b-04d0-45b2-9f5e-a167ca610bd0.blend"
+                            }
+                        ],
+                        "filesSize" : 60232,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/c6825df8235649b78b958adcf0138bda/files/thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/c6825df8235649b78b958adcf0138bda/files/thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/c6825df8235649b78b958adcf0138bda/files/thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/c6825df8235649b78b958adcf0138bda/files/thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/c6825df8235649b78b958adcf0138bda/files/thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/c6825df8235649b78b958adcf0138bda/files/thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/c6825df8235649b78b958adcf0138bda/files/thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/c6825df8235649b78b958adcf0138bda/files/thumbnail_321db099-a7a8-4c53-ad76-8bf3bebeabbf.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 512,
+                        "thumbnailXlargeWidthNonsquared" : 512,
+                        "thumbnailXlargeHeightNonsquared" : 512,
+                        "showMarketingLabels" : 1,
+                        "score" : 318,
+                        "ratingsAverage" : {
+                            "quality" : 8,
+                            "workingHours" : 3.975
+                        },
+                        "ratingsCount" : {
+                            "quality" : 3,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 4,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "max_resolution" : 0,
+                        "resolution" : "resolution_1K"
+                    },
+                    "8c0c6c4a-6952-4bf9-8e79-8cecdfeb636d" : {
+                        "thumbnail" : "thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "Procedual Marble Granite Black Galaxy\n\nCan be used as floor or on other things\n\nfiles size: 604KB\ntexture size: 1.0m\nlicense: royalty_free\n\nOnly assets with enough ratings \nshow the rating value. Please rate.\n",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1,
+                        "thumbnail_%i" : "thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/4d6cf3dd-fd6a-489b-a28a-1f16ba68b4b4/",
+                        "id" : "4d6cf3dd-fd6a-489b-a28a-1f16ba68b4b4",
+                        "assetBaseId" : "8c0c6c4a-6952-4bf9-8e79-8cecdfeb636d",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "42913",
+                            "firstName" : "Nobody",
+                            "lastName" : "",
+                            "gravatarHash" : "823d05a61b2fa0dd7c17a66de7198da5",
+                            "aboutMe" : "Hello everyone i started with blender few months ago and now when i\u00b4ve got a little bit of knowledge i wanted to give something back to this great  blender community. \r\n\r\nYou can contact me here: lukaspistek666@gmail.com"
+                        },
+                        "name" : "Procedual Marble Granite Black Galaxy",
+                        "displayName" : "Procedual Marble Granite Black Galaxy",
+                        "description" : "Can be used as floor or on other things",
+                        "assetType" : "material",
+                        "category" : "stone",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Marble",
+                            "granite",
+                            "black",
+                            "galaxy",
+                            "floor",
+                            "non-manifold",
+                            "non-manifold"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "textureSizeMeters",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "procedural",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "material_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "engine",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : [
+                                    "principled"
+                                ]
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "nodeCount",
+                                "value" : 43
+                            },
+                            {
+                                "parameterType" : "textureCount",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "megapixels",
+                                "value" : 0
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.83.0",
+                        "addonVersion" : "1.0.30",
+                        "created" : "2020-08-31T20:01:16.913149+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/22977/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/blend_1b168442-9e9b-44e3-b12b-f4d0b7ae7cb6.blend",
+                                "file_name" : "blend_1b168442-9e9b-44e3-b12b-f4d0b7ae7cb6.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/22976/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 67164,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/4d6cf3ddfd6a489ba28a1f16ba68b4b4/files/thumbnail_054a76f9-96c4-4cda-b170-022f6b8a6604.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 1024,
+                        "thumbnailXlargeWidthNonsquared" : 2048,
+                        "thumbnailXlargeHeightNonsquared" : 2048,
+                        "showMarketingLabels" : 1,
+                        "score" : 386.666666666667,
+                        "ratingsAverage" : {
+                            "quality" : 9.66666666666667,
+                            "workingHours" : 4
+                        },
+                        "ratingsCount" : {
+                            "quality" : 3,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 4,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "max_resolution" : 0,
+                        "resolution" : "resolution_1K"
+                    },
+                    "16bfbe6b-5a1a-44b8-9a1c-a8edd8ed95d2" : {
+                        "thumbnail" : "thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "Artificial Marble 1\n\nArtificial marble material made with\n Substance Designer\n\nfiles size: 11MB 351KB\ntexture size: 1.0m\nlicense: royalty_free\n\nOnly assets with enough ratings \nshow the rating value. Please rate.\nHours saved: 3\n",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1,
+                        "thumbnail_%i" : "thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/8c1a4092-a896-469c-a966-e2c085394598/",
+                        "id" : "8c1a4092-a896-469c-a966-e2c085394598",
+                        "assetBaseId" : "16bfbe6b-5a1a-44b8-9a1c-a8edd8ed95d2",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "5351",
+                            "firstName" : "Andrey",
+                            "lastName" : "Livintsov",
+                            "gravatarHash" : "9852d0dcc2443e359572b84084c37df6",
+                            "aboutMe" : "Working as a 3D artist and game developer, I like to create new materials and 3D assets.",
+                            "aboutMeUrl" : "https://www.linkedin.com/in/andreylivintsov/"
+                        },
+                        "name" : "Artificial Marble 1",
+                        "displayName" : "Artificial Marble 1",
+                        "description" : "Artificial marble material made with Substance Designer",
+                        "assetType" : "material",
+                        "category" : "stone",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "artificial",
+                            "marble",
+                            "stone",
+                            "non-manifold",
+                            "non-manifold"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "material_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "engine",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : ""
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "pbrType",
+                                "value" : "metallic"
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "textureSizeMeters",
+                                "value" : 1
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.81.16",
+                        "addonVersion" : "1.0.28",
+                        "created" : "2020-01-29T03:05:04.820684+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/13896/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/8c1a4092a896469ca966e2c085394598/files/blend_a434e8be-6664-4e01-bb77-59c3d7bf92c2.blend",
+                                "file_name" : "blend_a434e8be-6664-4e01-bb77-59c3d7bf92c2.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/13895/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/8c1a4092a896469ca966e2c085394598/files/thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/8c1a4092a896469ca966e2c085394598/files/thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 11939167,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/8c1a4092a896469ca966e2c085394598/files/thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/8c1a4092a896469ca966e2c085394598/files/thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/8c1a4092a896469ca966e2c085394598/files/thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/8c1a4092a896469ca966e2c085394598/files/thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8c1a4092a896469ca966e2c085394598/files/thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8c1a4092a896469ca966e2c085394598/files/thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8c1a4092a896469ca966e2c085394598/files/thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/8c1a4092a896469ca966e2c085394598/files/thumbnail_d64fa5a5-eaa0-4b4d-a709-13a9087063e3.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 512,
+                        "thumbnailXlargeWidthNonsquared" : 512,
+                        "thumbnailXlargeHeightNonsquared" : 512,
+                        "showMarketingLabels" : 1,
+                        "score" : 237.333333333333,
+                        "ratingsAverage" : {
+                            "quality" : 6.66666666666667,
+                            "workingHours" : 3.56
+                        },
+                        "ratingsCount" : {
+                            "quality" : 3,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 5,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "max_resolution" : 0,
+                        "resolution" : "resolution_1K"
+                    },
+                    "33bebe66-89c4-49ef-8462-e2e280108604" : {
+                        "thumbnail" : "thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "checker marble tiles\n\nfiles size: 6MB 879KB\ntexture size: 1.0m\ntexture resolution: 2048\nlicense: royalty_free\nAsset has lower resolutions available\n\n* 8.5\nHours saved: 3\n",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1,
+                        "thumbnail_%i" : "thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/d4ef5138-9179-4cea-a978-9cf210b4c84d/",
+                        "id" : "d4ef5138-9179-4cea-a978-9cf210b4c84d",
+                        "assetBaseId" : "33bebe66-89c4-49ef-8462-e2e280108604",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "2",
+                            "firstName" : "Vil\u00e9m",
+                            "lastName" : "Duha",
+                            "gravatarHash" : "7d60f17cdce549f0f0159215cd006ae9",
+                            "aboutMe" : "I started BlenderKit so that all users can build a shared library together.",
+                            "aboutMeUrl" : "https://www.blenderkit.com/about"
+                        },
+                        "name" : "checker marble tiles",
+                        "displayName" : "checker marble tiles",
+                        "description" : "",
+                        "assetType" : "material",
+                        "category" : "tiles",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "floor",
+                            "interior",
+                            "non-manifold",
+                            "uv",
+                            "non-manifold",
+                            "uv",
+                            "non-manifold",
+                            "uv"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "textureResolutionMax",
+                                "value" : 2048
+                            },
+                            {
+                                "parameterType" : "material_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "engine",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : "principled"
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "pbrType",
+                                "value" : "metallic"
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "textureResolutionMin",
+                                "value" : 2048
+                            },
+                            {
+                                "parameterType" : "textureSizeMeters",
+                                "value" : 1
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.79.0",
+                        "addonVersion" : "0.3",
+                        "created" : "2018-06-28T23:40:12.390413+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/28943/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/d4ef513891794ceaa9789cf210b4c84d/files/resolution_1K_f80654fc-eb83-448f-acf6-baa60d0ecbbd.blend",
+                                "file_name" : "resolution_1K_f80654fc-eb83-448f-acf6-baa60d0ecbbd.blend"
+                            },
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/2114/"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/2113/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/d4ef513891794ceaa9789cf210b4c84d/files/thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/d4ef513891794ceaa9789cf210b4c84d/files/thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.1024x1024_q85_crop-%2C.png"
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/28942/"
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/28944/"
+                            }
+                        ],
+                        "filesSize" : 7286639,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/d4ef513891794ceaa9789cf210b4c84d/files/thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/d4ef513891794ceaa9789cf210b4c84d/files/thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/d4ef513891794ceaa9789cf210b4c84d/files/thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/d4ef513891794ceaa9789cf210b4c84d/files/thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/d4ef513891794ceaa9789cf210b4c84d/files/thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/d4ef513891794ceaa9789cf210b4c84d/files/thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/d4ef513891794ceaa9789cf210b4c84d/files/thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/d4ef513891794ceaa9789cf210b4c84d/files/thumbnail_bda5da41-b19e-4d8f-ace0-9e0e628031d6.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 512,
+                        "thumbnailXlargeWidthNonsquared" : 512,
+                        "thumbnailXlargeHeightNonsquared" : 512,
+                        "showMarketingLabels" : 1,
+                        "score" : 330.285714285714,
+                        "ratingsAverage" : {
+                            "quality" : 8.5,
+                            "workingHours" : 3.88571428571429
+                        },
+                        "ratingsCount" : {
+                            "quality" : 6,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 7,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            1024,
+                            2048,
+                            512
+                        ],
+                        "max_resolution" : 2048,
+                        "resolution" : "resolution_1K"
+                    },
+                    "62045e9c-e359-48bc-a86f-1bd2461c1809" : {
+                        "thumbnail" : "thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "Artificial Marble 8\n\nArtificial marble material made with\n Substance Designer\n\nfiles size: 13MB 662KB\ntexture size: 1.0m\nlicense: royalty_free\n\nOnly assets with enough ratings \nshow the rating value. Please rate.\n",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1,
+                        "thumbnail_%i" : "thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/81cd3a86-1900-43f6-b368-42acc7c8f676/",
+                        "id" : "81cd3a86-1900-43f6-b368-42acc7c8f676",
+                        "assetBaseId" : "62045e9c-e359-48bc-a86f-1bd2461c1809",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "5351",
+                            "firstName" : "Andrey",
+                            "lastName" : "Livintsov",
+                            "gravatarHash" : "9852d0dcc2443e359572b84084c37df6",
+                            "aboutMe" : "Working as a 3D artist and game developer, I like to create new materials and 3D assets.",
+                            "aboutMeUrl" : "https://www.linkedin.com/in/andreylivintsov/"
+                        },
+                        "name" : "Artificial Marble 8",
+                        "displayName" : "Artificial Marble 8",
+                        "description" : "Artificial marble material made with Substance Designer",
+                        "assetType" : "material",
+                        "category" : "stone",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "artificial",
+                            "marble",
+                            "stone",
+                            "non-manifold",
+                            "non-manifold"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "material_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "engine",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : ""
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "pbrType",
+                                "value" : "metallic"
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "textureSizeMeters",
+                                "value" : 1
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.81.16",
+                        "addonVersion" : "1.0.28",
+                        "created" : "2020-01-29T03:29:14.887070+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/13910/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/81cd3a86190043f6b36842acc7c8f676/files/blend_2d055f1c-4778-47b0-9fd7-3b3468c12f2d.blend",
+                                "file_name" : "blend_2d055f1c-4778-47b0-9fd7-3b3468c12f2d.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/13909/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/81cd3a86190043f6b36842acc7c8f676/files/thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/81cd3a86190043f6b36842acc7c8f676/files/thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 13972118,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/81cd3a86190043f6b36842acc7c8f676/files/thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/81cd3a86190043f6b36842acc7c8f676/files/thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/81cd3a86190043f6b36842acc7c8f676/files/thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/81cd3a86190043f6b36842acc7c8f676/files/thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/81cd3a86190043f6b36842acc7c8f676/files/thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/81cd3a86190043f6b36842acc7c8f676/files/thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/81cd3a86190043f6b36842acc7c8f676/files/thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/81cd3a86190043f6b36842acc7c8f676/files/thumbnail_386201df-ad5e-45c8-bb44-6c25a89f57bf.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 512,
+                        "thumbnailXlargeWidthNonsquared" : 512,
+                        "thumbnailXlargeHeightNonsquared" : 512,
+                        "showMarketingLabels" : 1,
+                        "score" : 210,
+                        "ratingsAverage" : {
+                            "quality" : 6,
+                            "workingHours" : 3.5
+                        },
+                        "ratingsCount" : {
+                            "quality" : 3,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 2,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "max_resolution" : 0,
+                        "resolution" : "resolution_1K"
+                    },
+                    "806d10aa-ebe4-4134-bd97-357625c95815" : {
+                        "thumbnail" : "thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "Artificial Marble 4\n\nArtificial marble material made with\n Substance Designer\n\nfiles size: 11MB 991KB\ntexture size: 1.0m\nlicense: royalty_free\n\nOnly assets with enough ratings \nshow the rating value. Please rate.\n",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1,
+                        "thumbnail_%i" : "thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/b9adbe5d-fba0-4b89-a4c9-a8ae70997fcf/",
+                        "id" : "b9adbe5d-fba0-4b89-a4c9-a8ae70997fcf",
+                        "assetBaseId" : "806d10aa-ebe4-4134-bd97-357625c95815",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "5351",
+                            "firstName" : "Andrey",
+                            "lastName" : "Livintsov",
+                            "gravatarHash" : "9852d0dcc2443e359572b84084c37df6",
+                            "aboutMe" : "Working as a 3D artist and game developer, I like to create new materials and 3D assets.",
+                            "aboutMeUrl" : "https://www.linkedin.com/in/andreylivintsov/"
+                        },
+                        "name" : "Artificial Marble 4",
+                        "displayName" : "Artificial Marble 4",
+                        "description" : "Artificial marble material made with Substance Designer",
+                        "assetType" : "material",
+                        "category" : "stone",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "artificial",
+                            "marble",
+                            "stone",
+                            "non-manifold",
+                            "non-manifold"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "material_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "engine",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : ""
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "pbrType",
+                                "value" : "metallic"
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "textureSizeMeters",
+                                "value" : 1
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.81.16",
+                        "addonVersion" : "1.0.28",
+                        "created" : "2020-01-29T03:16:50.722154+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/13901/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85_crop-%2C.png"
+                            },
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/13902/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/blend_8d48afc6-109c-4b43-bcfc-38e6ae78e8ab.blend",
+                                "file_name" : "blend_8d48afc6-109c-4b43-bcfc-38e6ae78e8ab.blend"
+                            }
+                        ],
+                        "filesSize" : 11629535,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 512,
+                        "thumbnailXlargeWidthNonsquared" : 512,
+                        "thumbnailXlargeHeightNonsquared" : 512,
+                        "showMarketingLabels" : 1,
+                        "score" : 216.666666666667,
+                        "ratingsAverage" : {
+                            "quality" : 5,
+                            "workingHours" : 4.33333333333333
+                        },
+                        "ratingsCount" : {
+                            "quality" : 1,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 3,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "max_resolution" : 0,
+                        "resolution" : "resolution_1K"
+                    },
+                    "64a95289-0016-44c0-9f72-36c327a87885" : {
+                        "thumbnail" : "thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "Marble Polished Slab 001a\n\nMarblePolishedSlab001a includes 4k\n textures for PBR (Color, Roughness,\n Normal and Displacement maps).\n\nfiles size: 63MB 854KB\ntexture size: 3.2m\ntexture resolution: 4096\nlicense: royalty_free\n\nOnly assets with enough ratings \nshow the rating value. Please rate.\n",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 3.20000004768372,
+                        "thumbnail_%i" : "thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/da72c490-05e3-4f1e-9043-1191a2cac9ed/",
+                        "id" : "da72c490-05e3-4f1e-9043-1191a2cac9ed",
+                        "assetBaseId" : "64a95289-0016-44c0-9f72-36c327a87885",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "11090",
+                            "firstName" : "George",
+                            "lastName" : "Mattingly",
+                            "gravatarHash" : "b396fd4572487ea21cf2638def3cd602",
+                            "aboutMe" : "I am a general artist based in Boston, MA. \r\nI specialize in Computer Graphics.\r\nAs part of a large project, I'm developing a selection of high-fidelity, optimized assets for real-time PBR. \r\nI hope to make this content available to the Blender community.",
+                            "aboutMeUrl" : "https://www.artstation.com/georgemattingly"
+                        },
+                        "name" : "Marble Polished Slab 001a",
+                        "displayName" : "Marble Polished Slab 001a",
+                        "description" : "MarblePolishedSlab001a includes 4k textures for PBR (Color, Roughness, Normal and Displacement maps).",
+                        "assetType" : "material",
+                        "category" : "stone",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Marble",
+                            "Smooth",
+                            "Polished",
+                            "Slab",
+                            "Stone",
+                            "PBR",
+                            "4k",
+                            "Color",
+                            "Roughness",
+                            "Normal",
+                            "Displacement",
+                            "non-manifold",
+                            "non-manifold"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "material_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "engine",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : "principled"
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "pbrType",
+                                "value" : "metallic"
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "textureResolutionMin",
+                                "value" : 4096
+                            },
+                            {
+                                "parameterType" : "textureResolutionMax",
+                                "value" : 4096
+                            },
+                            {
+                                "parameterType" : "textureSizeMeters",
+                                "value" : 3.20000004768372
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.80.74",
+                        "addonVersion" : "1.0.26",
+                        "created" : "2019-07-23T23:57:47.404178+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/6451/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/da72c49005e34f1e90431191a2cac9ed/files/blend_8000cd37-e691-45a7-9b87-5e2fea622a06.blend",
+                                "file_name" : "blend_8000cd37-e691-45a7-9b87-5e2fea622a06.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/6450/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/da72c49005e34f1e90431191a2cac9ed/files/thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/da72c49005e34f1e90431191a2cac9ed/files/thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 66131798,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/da72c49005e34f1e90431191a2cac9ed/files/thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/da72c49005e34f1e90431191a2cac9ed/files/thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/da72c49005e34f1e90431191a2cac9ed/files/thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/da72c49005e34f1e90431191a2cac9ed/files/thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/da72c49005e34f1e90431191a2cac9ed/files/thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/da72c49005e34f1e90431191a2cac9ed/files/thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/da72c49005e34f1e90431191a2cac9ed/files/thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/da72c49005e34f1e90431191a2cac9ed/files/thumbnail_68fa8f96-2460-4cc8-a9ba-857aedd321f9.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 1024,
+                        "thumbnailXlargeWidthNonsquared" : 1024,
+                        "thumbnailXlargeHeightNonsquared" : 1024,
+                        "showMarketingLabels" : 1,
+                        "score" : 216,
+                        "ratingsAverage" : {
+                            "quality" : 6,
+                            "workingHours" : 3.6
+                        },
+                        "ratingsCount" : {
+                            "quality" : 2,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 2,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "max_resolution" : 0,
+                        "resolution" : "resolution_1K"
+                    },
+                    "88dc97bb-9432-48ec-a429-4f7cb1f8e8bf" : {
+                        "thumbnail" : "thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "Procedural Marble\n\nA Procedurally Generated Marble\n\nfiles size: 627KB\ntexture size: 1.0m\nlicense: royalty_free\n\nOnly assets with enough ratings \nshow the rating value. Please rate.\n",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1,
+                        "thumbnail_%i" : "thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/01926b30-85f7-4424-b19e-864108ab6d50/",
+                        "id" : "01926b30-85f7-4424-b19e-864108ab6d50",
+                        "assetBaseId" : "88dc97bb-9432-48ec-a429-4f7cb1f8e8bf",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "102778",
+                            "firstName" : "eatnoodls",
+                            "lastName" : "",
+                            "gravatarHash" : "98e58daaf60d6b26688289652a734fbc",
+                            "aboutMe" : "I'm a Canadian graphic design student looking to improve my skills in a wide variety of ways, I use blender kit constantly and wanted to give back.",
+                            "tooltip" : "Author:\neatnoodls \n\nI'm a Canadian graphic design student\n looking to improve my skills in a wide\n variety of ways, I use blender kit\n constantly and wanted to give back.\n\n"
+                        },
+                        "name" : "Procedural Marble",
+                        "displayName" : "Procedural Marble",
+                        "description" : "A Procedurally Generated Marble",
+                        "assetType" : "material",
+                        "category" : "marble",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Procedural",
+                            "Marble",
+                            "Wave",
+                            "Noise",
+                            "non-manifold",
+                            "non-manifold"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "textureSizeMeters",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "procedural",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "material_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "engine",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : [
+                                    "principled"
+                                ]
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "nodeCount",
+                                "value" : 9
+                            },
+                            {
+                                "parameterType" : "textureCount",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "megapixels",
+                                "value" : 0
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.93.0",
+                        "addonVersion" : "1.0.40",
+                        "created" : "2021-04-30T18:40:26.519227+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/57564/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/01926b3085f74424b19e864108ab6d50/files/thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/01926b3085f74424b19e864108ab6d50/files/thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.1024x1024_q85_crop-%2C.png"
+                            },
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/57565/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/01926b3085f74424b19e864108ab6d50/files/blend_24f0a35b-966e-426a-adaa-4dac655ef15c.blend",
+                                "file_name" : "blend_24f0a35b-966e-426a-adaa-4dac655ef15c.blend"
+                            }
+                        ],
+                        "filesSize" : 62067,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/01926b3085f74424b19e864108ab6d50/files/thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/01926b3085f74424b19e864108ab6d50/files/thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/01926b3085f74424b19e864108ab6d50/files/thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/01926b3085f74424b19e864108ab6d50/files/thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01926b3085f74424b19e864108ab6d50/files/thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01926b3085f74424b19e864108ab6d50/files/thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01926b3085f74424b19e864108ab6d50/files/thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/01926b3085f74424b19e864108ab6d50/files/thumbnail_fa4803e9-88d9-40de-b997-3f6c71aac9f2.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 1024,
+                        "thumbnailXlargeWidthNonsquared" : 2048,
+                        "thumbnailXlargeHeightNonsquared" : 2048,
+                        "showMarketingLabels" : 1,
+                        "score" : 250,
+                        "ratingsAverage" : {
+                            "quality" : 8.33333333333333,
+                            "workingHours" : 3
+                        },
+                        "ratingsCount" : {
+                            "quality" : 3,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 4,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "max_resolution" : 0,
+                        "resolution" : "resolution_1K"
+                    },
+                    "7a386e75-24d7-490c-9f28-23556e04b706" : {
+                        "thumbnail" : "thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "Marble 01\n\nfiles size: 8MB 728KB\ntexture size: 0.4m\ntexture resolution: 2048\nlicense: royalty_free\nAsset has lower resolutions available\n\n* 7.7\nHours saved: 3\n",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 0.400000005960464,
+                        "thumbnail_%i" : "thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/4212d6fe-81fc-44a1-bea5-223723b82366/",
+                        "id" : "4212d6fe-81fc-44a1-bea5-223723b82366",
+                        "assetBaseId" : "7a386e75-24d7-490c-9f28-23556e04b706",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "10533",
+                            "firstName" : "Julio",
+                            "lastName" : "Sillet",
+                            "gravatarHash" : "775143b46896be593570fa04745731da",
+                            "aboutMe" : "3D artist and generalist.",
+                            "aboutMeUrl" : "https://www.patreon.com/Sillet",
+                            "tooltip" : "Author:\nJulio Sillet\n\nhttps://www.patreon.com/Sillet\n\n3D artist and generalist.\n\n"
+                        },
+                        "name" : "Marble 01",
+                        "displayName" : "Marble 01",
+                        "description" : "",
+                        "assetType" : "material",
+                        "category" : "ceramic",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "marble",
+                            "non-manifold",
+                            "uv"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "material_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "engine",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : "principled"
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "pbrType",
+                                "value" : "metallic"
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "textureResolutionMin",
+                                "value" : 2048
+                            },
+                            {
+                                "parameterType" : "textureResolutionMax",
+                                "value" : 2048
+                            },
+                            {
+                                "parameterType" : "textureSizeMeters",
+                                "value" : 0.400000005960464
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.80.75",
+                        "addonVersion" : "1.0.26",
+                        "created" : "2019-08-03T05:52:44.512478+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/30722/"
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/30724/"
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/30723/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/4212d6fe81fc44a1bea5223723b82366/files/resolution_1K_5152c67b-db2e-409f-8257-e8f93a94ac2b.blend",
+                                "file_name" : "resolution_1K_5152c67b-db2e-409f-8257-e8f93a94ac2b.blend"
+                            },
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/6886/"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/6885/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/4212d6fe81fc44a1bea5223723b82366/files/thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/4212d6fe81fc44a1bea5223723b82366/files/thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 8674008,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/4212d6fe81fc44a1bea5223723b82366/files/thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/4212d6fe81fc44a1bea5223723b82366/files/thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/4212d6fe81fc44a1bea5223723b82366/files/thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/4212d6fe81fc44a1bea5223723b82366/files/thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/4212d6fe81fc44a1bea5223723b82366/files/thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/4212d6fe81fc44a1bea5223723b82366/files/thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/4212d6fe81fc44a1bea5223723b82366/files/thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/4212d6fe81fc44a1bea5223723b82366/files/thumbnail_60168d13-09cd-4b49-9c4c-91fb4f2cc5ec.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 1024,
+                        "thumbnailXlargeWidthNonsquared" : 1024,
+                        "thumbnailXlargeHeightNonsquared" : 1024,
+                        "showMarketingLabels" : 1,
+                        "score" : 248.872727272727,
+                        "ratingsAverage" : {
+                            "quality" : 7.73333333333333,
+                            "workingHours" : 3.21818181818182
+                        },
+                        "ratingsCount" : {
+                            "quality" : 15,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 22,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            2048,
+                            512,
+                            1024
+                        ],
+                        "max_resolution" : 2048,
+                        "resolution" : "resolution_1K"
+                    },
+                    "a5211385-e1cc-4fc5-9181-7d8456071d79" : {
+                        "thumbnail" : "thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.96x96_q85_crop-%2C.png",
+                        "tooltip" : "white marble\n\nfiles size: 4MB 1021KB\ntexture size: 1.0m\ntexture resolution: 4096\nlicense: royalty_free\nAsset has lower resolutions available\n\n* 7.3\nHours saved: 3\n",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1,
+                        "thumbnail_%i" : "thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.1024x1024_q85_crop-%2C.png",
+                        "url" : "https://www.blenderkit.com/api/v1/assets/7fe8e399-006e-4a59-b906-6395d82f9a71/",
+                        "id" : "7fe8e399-006e-4a59-b906-6395d82f9a71",
+                        "assetBaseId" : "a5211385-e1cc-4fc5-9181-7d8456071d79",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "2",
+                            "firstName" : "Vil\u00e9m",
+                            "lastName" : "Duha",
+                            "gravatarHash" : "7d60f17cdce549f0f0159215cd006ae9",
+                            "aboutMe" : "I started BlenderKit so that all users can build a shared library together.",
+                            "aboutMeUrl" : "https://www.blenderkit.com/about"
+                        },
+                        "name" : "white marble",
+                        "displayName" : "white marble",
+                        "description" : "",
+                        "assetType" : "material",
+                        "category" : "stone",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "stone",
+                            "rock smooth",
+                            "non-manifold",
+                            "non-manifold"
+                        ],
+                        "license" : "royalty_free",
+                        "parameters" : [
+                            {
+                                "parameterType" : "textureResolutionMax",
+                                "value" : 4096
+                            },
+                            {
+                                "parameterType" : "textureSizeMeters",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "material_style",
+                                "value" : "realistic"
+                            },
+                            {
+                                "parameterType" : "purePbr",
+                                "value" : 1
+                            },
+                            {
+                                "parameterType" : "engine",
+                                "value" : "cycles"
+                            },
+                            {
+                                "parameterType" : "shaders",
+                                "value" : [
+                                    "principled"
+                                ]
+                            },
+                            {
+                                "parameterType" : "animated",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "pbrType",
+                                "value" : "metallic"
+                            },
+                            {
+                                "parameterType" : "uv",
+                                "value" : 0
+                            },
+                            {
+                                "parameterType" : "textureResolutionMin",
+                                "value" : 4096
+                            }
+                        ],
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.79.2",
+                        "addonVersion" : "0.3.46",
+                        "created" : "2018-11-08T13:05:33.798402+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/29344/"
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/29342/",
+                                "url" : "https://public.blenderkit.com/public-assets/assets/7fe8e399006e4a59b9066395d82f9a71/files/resolution_1K_9e1533e8-393f-473f-ba4c-ef5cfd7fb614.blend",
+                                "file_name" : "resolution_1K_9e1533e8-393f-473f-ba4c-ef5cfd7fb614.blend"
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/29339/"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/2405/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/7fe8e399006e4a59b9066395d82f9a71/files/thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/7fe8e399006e4a59b9066395d82f9a71/files/thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.1024x1024_q85_crop-%2C.png"
+                            },
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/2406/"
+                            }
+                        ],
+                        "filesSize" : 4638717,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/7fe8e399006e4a59b9066395d82f9a71/files/thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/7fe8e399006e4a59b9066395d82f9a71/files/thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/7fe8e399006e4a59b9066395d82f9a71/files/thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/7fe8e399006e4a59b9066395d82f9a71/files/thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/7fe8e399006e4a59b9066395d82f9a71/files/thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/7fe8e399006e4a59b9066395d82f9a71/files/thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/7fe8e399006e4a59b9066395d82f9a71/files/thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/7fe8e399006e4a59b9066395d82f9a71/files/thumbnail_b2870fb0-d5f3-4a07-b59f-d08c6677bce4.png.2048x2048_q85.png",
+                        "thumbnailSmallWidthNonsquared" : 256,
+                        "thumbnailMiddleWidthNonsquared" : 512,
+                        "thumbnailLargeWidthNonsquared" : 1024,
+                        "thumbnailXlargeWidthNonsquared" : 1024,
+                        "thumbnailXlargeHeightNonsquared" : 1024,
+                        "showMarketingLabels" : 1,
+                        "score" : 239.380952380952,
+                        "ratingsAverage" : {
+                            "quality" : 7.33333333333333,
+                            "workingHours" : 3.26428571428571
+                        },
+                        "ratingsCount" : {
+                            "quality" : 12,
+                            "virtualPrice" : 0,
+                            "complexity" : 0,
+                            "workingHours" : 14,
+                            "virtualPriceAdmin" : 0,
+                            "complexityAdmin" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024,
+                            2048
+                        ],
+                        "max_resolution" : 2048,
+                        "resolution" : "resolution_1K"
+                    }
+                },
+                "uuid" : "6755617d-7e15-471f-9021-5416ad08ee4a",
+                "assets reported" : {
+                    "33bebe66-89c4-49ef-8462-e2e280108604" : 1,
+                    "64a95289-0016-44c0-9f72-36c327a87885" : 1
+                },
+                "exportcyclescolspace" : 0,
+                "assets rated" : {
+                    "626afa9d-bdf6-4c12-8965-b819d96da71e" : 0,
+                    "9cb2b199-f3fe-4cbc-b963-cf7d1332a87d" : 0,
+                    "8c0c6c4a-6952-4bf9-8e79-8cecdfeb636d" : 0,
+                    "16bfbe6b-5a1a-44b8-9a1c-a8edd8ed95d2" : 0,
+                    "33bebe66-89c4-49ef-8462-e2e280108604" : 0,
+                    "62045e9c-e359-48bc-a86f-1bd2461c1809" : 0,
+                    "806d10aa-ebe4-4134-bd97-357625c95815" : 0,
+                    "64a95289-0016-44c0-9f72-36c327a87885" : 0,
+                    "88dc97bb-9432-48ec-a429-4f7cb1f8e8bf" : 0,
+                    "7a386e75-24d7-490c-9f28-23556e04b706" : 0,
+                    "a5211385-e1cc-4fc5-9181-7d8456071d79" : 0
+                },
+                "simplebake_bakeobjs_advanced_list" : [
+                    {
+                        "obj_point" : {
+                            "name" : "RookWhite2.001",
+                            "type" : "Object"
+                        },
+                        "name" : "RookWhite2.001"
+                    }
+                ]
+            },
+            "name" : "Scene",
+            "nodes" : [
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "extras" : {},
+            "mesh" : 0,
+            "name" : "PawnBlack.001",
+            "scale" : [
+                1.7558311223983765,
+                1.7558311223983765,
+                1.7558311223983765
+            ]
+        },
+        {
+            "children" : [
+                0
+            ],
+            "extras" : {
+                "blenderkit" : {
+                    "name" : "Marble Chess Set",
+                    "name_changed" : 1,
+                    "name_old" : "Marble Chess Set",
+                    "thumbnail" : "//..\\PORTFOLIO 3-D\\Chess Set Finale.png",
+                    "has_thumbnail" : 1,
+                    "thumbnail_generating_state" : "",
+                    "category" : 2,
+                    "subcategory" : 18,
+                    "description" : "Chess set, free to use. 20x20 cm board. Please use as you wish",
+                    "tags" : "chess,set,marble,board,game",
+                    "is_free" : 1,
+                    "condition" : 1,
+                    "work_hours" : 6,
+                    "texture_resolution_max" : 4096,
+                    "texture_resolution_min" : 1024,
+                    "uv" : 1,
+                    "texture_count" : 12,
+                    "total_megapixels" : 88080384,
+                    "node_count" : 35,
+                    "engine" : 0,
+                    "is_procedural" : 0,
+                    "materials" : "White Marble Procedural, Artificial Marble 4, Marble Polished Slab, checker marble tiles, ",
+                    "shaders" : "principled, ",
+                    "dimensions" : [
+                        0.2496386468410492,
+                        0.2496386468410492,
+                        0.045785851776599884
+                    ],
+                    "bbox_min" : [
+                        -0.1248193234205246,
+                        -0.1248193234205246,
+                        -0.008887949399650097
+                    ],
+                    "bbox_max" : [
+                        0.1248193234205246,
+                        0.1248193234205246,
+                        0.03689790144562721
+                    ],
+                    "face_count" : 85728,
+                    "face_count_render" : 85728,
+                    "mesh_poly_type" : 1,
+                    "manifold" : 0,
+                    "modifiers" : "",
+                    "object_count" : 34,
+                    "upload_state" : "Upload finished successfully",
+                    "report" : "",
+                    "asset_base_id" : "324cc130-de99-4d85-b0ba-63335931ab53",
+                    "id" : "59c83901-c6b4-4d05-842b-1975c57d1282",
+                    "uploading" : 0
+                }
+            },
+            "name" : "Marble Chess Set",
+            "scale" : [
+                0.5695308446884155,
+                0.5695308446884155,
+                0.5695308446884155
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "extras" : {
+                "blenderkit" : {
+                    "name" : "Artificial Marble 4",
+                    "name_changed" : 0,
+                    "name_old" : "Artificial Marble 4",
+                    "description" : "Artificial marble material made with Substance Designer",
+                    "tags" : "artificial, marble, stone",
+                    "pbr" : 1,
+                    "category" : 27,
+                    "is_generating_thumbnail" : 0,
+                    "has_thumbnail" : 1,
+                    "thumbnail_generating_state" : "",
+                    "thumbnail" : "//Artificial Marble 4.png",
+                    "shaders" : "",
+                    "texture_resolution_max" : 0,
+                    "texture_resolution_min" : 0,
+                    "upload_state" : "preparing upload",
+                    "report" : "",
+                    "asset_base_id" : "806d10aa-ebe4-4134-bd97-357625c95815",
+                    "id" : "b9adbe5d-fba0-4b89-a4c9-a8ae70997fcf",
+                    "uploading" : 0
+                },
+                "asset_data" : {
+                    "thumbnail" : "thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85_crop-%2C.png",
+                    "thumbnail_small" : "thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.96x96_q85_crop-%2C.png",
+                    "tooltip" : "Artificial Marble 4\n\nArtificial marble material made with\n Substance Designer\n\nfiles size: 11MB 991KB\ntexture size: 1.0m\nlicense: royalty_free\n\nOnly assets with enough ratings \nshow the rating value. Please rate.\n",
+                    "downloaded" : 0,
+                    "texture_size_meters" : 1,
+                    "thumbnail_%i" : "thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85_crop-%2C.png",
+                    "url" : "https://www.blenderkit.com/api/v1/assets/b9adbe5d-fba0-4b89-a4c9-a8ae70997fcf/",
+                    "id" : "b9adbe5d-fba0-4b89-a4c9-a8ae70997fcf",
+                    "assetBaseId" : "806d10aa-ebe4-4134-bd97-357625c95815",
+                    "versionNumber" : 1,
+                    "author" : {
+                        "id" : "5351",
+                        "firstName" : "Andrey",
+                        "lastName" : "Livintsov",
+                        "gravatarHash" : "9852d0dcc2443e359572b84084c37df6",
+                        "aboutMe" : "Working as a 3D artist and game developer, I like to create new materials and 3D assets.",
+                        "aboutMeUrl" : "https://www.linkedin.com/in/andreylivintsov/"
+                    },
+                    "name" : "Artificial Marble 4",
+                    "displayName" : "Artificial Marble 4",
+                    "description" : "Artificial marble material made with Substance Designer",
+                    "assetType" : "material",
+                    "category" : "stone",
+                    "adult" : 0,
+                    "isFree" : 1,
+                    "tags" : [
+                        "artificial",
+                        "marble",
+                        "stone",
+                        "non-manifold",
+                        "non-manifold"
+                    ],
+                    "license" : "royalty_free",
+                    "parameters" : [
+                        {
+                            "parameterType" : "material_style",
+                            "value" : "realistic"
+                        },
+                        {
+                            "parameterType" : "engine",
+                            "value" : "cycles"
+                        },
+                        {
+                            "parameterType" : "shaders",
+                            "value" : ""
+                        },
+                        {
+                            "parameterType" : "animated",
+                            "value" : 0
+                        },
+                        {
+                            "parameterType" : "purePbr",
+                            "value" : 1
+                        },
+                        {
+                            "parameterType" : "pbrType",
+                            "value" : "metallic"
+                        },
+                        {
+                            "parameterType" : "uv",
+                            "value" : 0
+                        },
+                        {
+                            "parameterType" : "textureSizeMeters",
+                            "value" : 1
+                        }
+                    ],
+                    "sourceAppName" : "blender",
+                    "sourceAppVersion" : "2.81.16",
+                    "addonVersion" : "1.0.28",
+                    "created" : "2020-01-29T03:16:50.722154+01:00",
+                    "verificationStatus" : "validated",
+                    "isPrivate" : 0,
+                    "files" : [
+                        {
+                            "fileType" : "thumbnail",
+                            "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/13901/",
+                            "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.96x96_q85_crop-%2C.png",
+                            "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85_crop-%2C.png"
+                        },
+                        {
+                            "fileType" : "blend",
+                            "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/13902/",
+                            "url" : "https://public.blenderkit.com/public-assets/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/blend_8d48afc6-109c-4b43-bcfc-38e6ae78e8ab.blend",
+                            "file_name" : "blend_8d48afc6-109c-4b43-bcfc-38e6ae78e8ab.blend"
+                        }
+                    ],
+                    "filesSize" : 11629535,
+                    "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.256x256_q85_crop-%2C.png",
+                    "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.512x512_q85_crop-%2C.png",
+                    "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85_crop-%2C.png",
+                    "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85_crop-%2C.png",
+                    "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.256x256_q85.png",
+                    "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.512x512_q85.png",
+                    "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.1024x1024_q85.png",
+                    "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b9adbe5dfba04b89a4c9a8ae70997fcf/files/thumbnail_0305f443-694e-4c5d-a665-926c67b23d49.png.2048x2048_q85.png",
+                    "thumbnailSmallWidthNonsquared" : 256,
+                    "thumbnailMiddleWidthNonsquared" : 512,
+                    "thumbnailLargeWidthNonsquared" : 512,
+                    "thumbnailXlargeWidthNonsquared" : 512,
+                    "thumbnailXlargeHeightNonsquared" : 512,
+                    "showMarketingLabels" : 1,
+                    "score" : 216.666666666667,
+                    "ratingsAverage" : {
+                        "quality" : 5,
+                        "workingHours" : 4.33333333333333
+                    },
+                    "ratingsCount" : {
+                        "quality" : 1,
+                        "virtualPrice" : 0,
+                        "complexity" : 0,
+                        "workingHours" : 3,
+                        "virtualPriceAdmin" : 0,
+                        "complexityAdmin" : 0
+                    },
+                    "canDownload" : 1,
+                    "canDownloadError" : 1,
+                    "max_resolution" : 0,
+                    "resolution" : "resolution_1K"
+                }
+            },
+            "name" : "Artificial Marble 4",
+            "normalTexture" : {
+                "index" : 0
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 1
+                },
+                "metallicFactor" : 0,
+                "M_metallicRoughnessTexture" : {
+                    "index" : 2
+                }
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Cylinder.062",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "M_normal",
+            "uri" : "M_normal.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "M_baseColor",
+            "uri" : "M_baseColor.jpg"
+        },
+        {
+            "mimeType" : "image/jpeg",
+            "name" : "M_metallicRoughness",
+            "uri" : "M_metallicRoughness.jpg"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 2974,
+            "max" : [
+                0.01064574345946312,
+                0.018767673522233963,
+                0.010645747184753418
+            ],
+            "min" : [
+                -0.010645750910043716,
+                -0.005768970586359501,
+                -0.010645747184753418
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 2974,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 2974,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 11940,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 35688,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 35688,
+            "byteOffset" : 35688
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 23792,
+            "byteOffset" : 71376
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 23880,
+            "byteOffset" : 95168
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 119048,
+            "uri" : "ALL.bin"
+        }
+    ]
+}
