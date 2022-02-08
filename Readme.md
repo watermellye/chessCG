@@ -11,6 +11,17 @@
 吃子特效
 ![eat](result/eat.jpg)
 
+## Abstract 
+As we know, chess has complex forms and delicate textures, which can well reflect detailed light effect. Because the emphasis is openGL, not games. We decided to work on Auto-moving Chess Game project. We used many techniques including Jason to analysis gltf model, Cubemaps technique to make skybox, bloom technique, PBR shader with IBL, Gamma Correction and HDR technique. And we implemented an integrated and logical frame to control each chess piece, realized moving, rocking and beating other chess pieces with well-organized camera controlling and moving.
+
+## Team member
+1952114 荆宇泉
+1950084 陈泓仰
+1952112 赵颂霖
+1952106 赵艺博
+1952547 孔艺菲
+1853047 孔庆晨
+
 
 ## how to run this project:
 ```
@@ -38,3 +49,11 @@ vs打开vFinal文件夹下的sln文件，F5运行项目（Debug x64）
 ## References 
 > [LearnOpenGL CN](https://learnopengl-cn.github.io/)
 
+## Roles in group
+-	All of us contributed for model choosing and making, especially 赵艺博 contributed hardest work. What’s more, she used Jason to analysis gltf model and load the model into the project.
+-	荆宇泉 choose and wrote the skybox. And he with 孔庆晨,赵艺博 were responsible and HDR.
+-	陈泓仰 made the frame of the project, realized moving, rocking and beating other chess pieces with well-organized camera controlling and moving.
+-	赵颂霖 generated special effects of beating other chess pieces. First, he tried particle system. But the effect is not good enough, he bring about bloom effect.
+-	孔艺菲 and 孔庆晨 brought out pbr technique and added Gamma Correction and IBL, using the results of HDR to achieve better effect.
+-	What’s more, 孔艺菲 tried to add shadow, but the results looked odd as the chess pieces are rocking. So the shadow is not added in the final project.
+-	Last,孔庆晨,赵艺博,陈泓仰 made great effort in merging codes.
