@@ -15,7 +15,7 @@
 As we know, chess has complex forms and delicate textures, which can well reflect detailed light effect. Because the emphasis is openGL, not games. We decided to work on Auto-moving Chess Game project. We used many techniques including Jason to analysis gltf model, Cubemaps technique to make skybox, bloom technique, PBR shader with IBL, Gamma Correction and HDR technique. And we implemented an integrated and logical frame to control each chess piece, realized moving, rocking and beating other chess pieces with well-organized camera controlling and moving.
 
 ## Team member
-1952114 荆宇泉
+[1952114 荆宇泉](https://github.com/github-jyq)
 [1950084 陈泓仰](https://github.com/watermellye)
 1952112 赵颂霖
 1952106 赵艺博
