@@ -16,7 +16,7 @@ As we know, chess has complex forms and delicate textures, which can well reflec
 
 ## Team member
 1952114 荆宇泉
-1950084 陈泓仰
+[1950084 陈泓仰](https://github.com/watermellye)
 1952112 赵颂霖
 1952106 赵艺博
 1952547 孔艺菲
